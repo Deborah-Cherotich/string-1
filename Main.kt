@@ -13,9 +13,7 @@ println(getStringLength("Akirachix"))
     var y = getStringLength("akirachix")
     println(y)
 
-//
-//    myName("faith","faith" )
-//    myName("faith","munyao")
+
 
     name("Deborah","Cherotich")
 }
